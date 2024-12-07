@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on C
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 tekendraa/tekendraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
