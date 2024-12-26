@@ -3,6 +3,7 @@
 ## About Me
 
 I'm a passionate software developer with a love for creating innovative and efficient solutions. I enjoy working on both front-end and back-end projects, and I'm always eager to learn new technologies and improve my skills.
+![Kali Linux](https://your-image-hosting-service.com/path/to/kali-linux.gif)
 
 - 🌱 I’m currently learning C.
 - 🔭 I’m currently working on C projects.
