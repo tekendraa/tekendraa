@@ -9,7 +9,7 @@ I'm a passionate software developer with a love for creating innovative and effi
 - 👯 I’m looking to collaborate on C.
 - 💬 Ask me about myself 😁.
 - 📫 How to reach me: tekendrabhandari67@gmail.com .
-- ⚡ Fun fact: .
+- ⚡ Fun fact: I hate my mind 😆.
 
 ## Skills
 
