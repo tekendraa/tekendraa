@@ -9,7 +9,7 @@ I'm a passionate software developer with a love for creating innovative and effi
 - 👯 I’m looking to collaborate on C.
 - 💬 Ask me about myself 😁.
 - 📫 How to reach me: tekendrabhandari67@gmail.com .
-- ⚡ Fun fact: I hate my mind 😆.
+
 
 ## Skills
 
@@ -20,6 +20,8 @@ I'm a passionate software developer with a love for creating innovative and effi
 ## GitHub Stats
 
 ![Tekendraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekendraa&show_icons=true&theme=radical)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tekendraa&theme=radical)](https://git.io/streak-stats)
 
 ## Connect with Me
 
