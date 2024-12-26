@@ -20,8 +20,9 @@ I'm a passionate software developer with a love for creating innovative and effi
 ## GitHub Stats
 
 ![Tekendraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekendraa&show_icons=true&theme=radical)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tekendraa&theme=radical)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tekendraa)](https://github.com/ryo-ma/github-profile-trophy)
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## Connect with Me
 
