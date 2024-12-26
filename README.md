@@ -15,7 +15,7 @@
 </div>
 </h1>
 <h3 align="center">I'm a beginner programmer with a love for creating innovative and efficient solutions.I'm always eager to learn new technologies and improve my skills.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tekendraa&theme=algolia" alt="tekendraa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tekendraa&theme=matrix" alt="tekendraa" /></a> </p>
 
 - 🌱 I’m currently learning **C**
 
