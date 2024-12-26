@@ -14,7 +14,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%238B0000&size=32&center=true&vCenter=true&width=600&height=50&lines=+;Tekendra;&duration=2000" alt="Headline"/> 
 </div>
 </h1>
-<h3 align="center">I'm a beignner software developer with a love for creating innovative and efficient solutions.I'm always eager to learn new technologies and improve my skills.</h3>
+<h3 align="center">I'm a beginner programmer with a love for creating innovative and efficient solutions.I'm always eager to learn new technologies and improve my skills.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tekendraa&theme=algolia" alt="tekendraa" /></a> </p>
 
 - 🌱 I’m currently learning **C**
