@@ -17,6 +17,8 @@ I'm a passionate software developer with a love for creating innovative and effi
   
 
 ## GitHub Stats
+- **Followers**: <!-- FOLLOWERS -->
+- **Views**: <!-- VIEWS -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekendraa&layout=compact&theme=radical)
 ![Tekendraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekendraa&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tekendraa&theme=radical)](https://git.io/streak-stats)
