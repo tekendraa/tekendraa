@@ -18,11 +18,6 @@ I'm a passionate software developer with a love for creating innovative and effi
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekendraa&layout=compact&theme=radical)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tekendraa&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![GitHub Contributions](https://github-contributions-canvas.now.sh/api/v1/image?username=tekendraa)
-
 ![Tekendraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekendraa&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tekendraa&theme=radical)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tekendraa)](https://github.com/ryo-ma/github-profile-trophy)
