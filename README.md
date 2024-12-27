@@ -47,8 +47,8 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekendraa&layout=compact&theme=aura" alt="tekendraa" /></p>
 
 <div class="stats-container">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=tekendraa&show_icons=true&theme=neon" alt="tekendraa" width="450" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tekendraa&theme=hacker" alt="tekendraa" width="450"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=tekendraa&show_icons=true&theme=neon" alt="tekendraa" width="400" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tekendraa&theme=hacker" alt="tekendraa" width="400"/>
     </div>
 
 
