@@ -45,9 +45,9 @@
 <p align="center">  </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekendraa&layout=compact&theme=aura" alt="tekendraa" /></p>
+
 <div class="stats-container">
-        
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tekendraa&show_icons=true&theme=neon" alt="tekendraa" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tekendraa&show_icons=true&theme=neon" alt="tekendraa" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tekendraa&theme=hacker" alt="tekendraa" />
     </div>
 
