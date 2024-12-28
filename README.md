@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **C**
 
-- 📫 How to reach me **tekendrabhandari67@gmail.com**
+- 📫 How to reach me **tekendraa67@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
